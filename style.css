@@ -1,0 +1,23 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.headline-color{
+    color:rgb(87, 82, 82);
+}
+a{
+    text-decoration:none;
+}
+.edu{
+    margin-top: -13px;
+   font-size:25px;
+}
+footer{
+    background-color: rgb(61, 79, 114);
+}
+.learn{
+    color:white;
+}
+.fa-brands, .fa-solid{
+    color:aliceblue;
+    margin-right:10px;
+}
